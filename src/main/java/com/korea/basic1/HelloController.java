@@ -8,7 +8,7 @@ public class HelloController {
     @GetMapping("/hello")
     @ResponseBody
     public String hello() {
-        return "fadsjkqlwrejkhzxfcv";
+        return "HelloSBB";
     }
 
 }
